@@ -1,0 +1,6 @@
+{
+  "name": "YKSS AI Technology",
+  "description": "Universal multi-provider AI platform featuring unified chat, 7 creative studios, AI tools directory, autonomous agent workflows, and verified knowledge research hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
